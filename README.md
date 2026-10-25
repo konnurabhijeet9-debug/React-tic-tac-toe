@@ -25,7 +25,7 @@ A simple two-player Tic Tac Toe game built with React.
 
 1. Clone the repository.
 2. Install dependencies using `npm install`.
-3. Start the development server using `npm run dev` (if using Vite).
+3. Start the development server using `npm run dev` or `npm.cmd run dev` (if using Vite).
 
 ## How to Play
 
